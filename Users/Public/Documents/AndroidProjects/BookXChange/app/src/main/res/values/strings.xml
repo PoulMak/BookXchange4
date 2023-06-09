@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">BookXchange</string>
+    <string name="welcome_to_service">Welcome to the app for bookcrossing!</string>
+    <string name="push_the_button_to_continue">Push the button to continue</string>
+    <string name="start">Start</string>
+    <string name="book_list">Books list</string>
+    <string name="chat_list">Chat list</string>
+    <string name="chat_with_Bob">Chat with Bob</string>
+    <string name="book_info">Book info</string>
+    <string name="author">Author</string>
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+    <string name="info">Info</string>
+    <string name="ok">ok</string>
+    <string name="welcome_account">Welcome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_out">Sign out</string>
+    <string name="your_email">Your email</string>
+    <string name="congratulation_for_sign_in">Yahoo! You\'v just signed in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+</resources>

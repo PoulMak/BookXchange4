@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_to_service">Добро пожаловать в приложение для обмена книгами!</string>
+    <string name="push_the_button_to_continue">Нажмите на кнопку, чтобы продолжить</string>
+    <string name="start">Начать</string>
+    <string name="book_list">Список книг</string>
+    <string name="chat_list">Список чатов</string>
+    <string name="chat_with_Bob">Чат с Bob</string>
+    <string name="book_info">Информация о книге</string>
+    <string name="author">Автор</string>
+    <string name="genre">Жанр</string>
+    <string name="description">Описание</string>
+    <string name="info">Инфо</string>
+</resources>
